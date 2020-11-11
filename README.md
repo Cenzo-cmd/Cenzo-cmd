@@ -19,11 +19,15 @@
 
 <a href="https://https://github.com/Cenzo-cmd/Project-2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cenzo-cmd&repo=project-2&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
-</a><br>
+</a>
 
 <a href="https://https://github.com/Cenzo-cmd/Eat-Dat-Burger">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cenzo-cmd&repo=Eat-Dat-Burger&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
-</a><br>
+</a>
+
+<a href="https://https://github.com/Cenzo-cmd/Responsive-Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cenzo-cmd&repo=Responsive-Portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
+</a>
 
 <a href="https://https://github.com/Cenzo-cmd/Project-2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cenzo-cmd&repo=Weather_Forecast_Dashboard&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
