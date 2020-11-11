@@ -1,4 +1,5 @@
-### Welcome to my Profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Welcome to my Profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<img src="https://www.gravatar.com/avatar/e26919eb212ea8d2e5eed0717a8c3bbf?s=200&r=pg&d=mm" width="100px">
 
 ## 🔧 My favorite Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
